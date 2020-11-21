@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+	<img src="https://i.pinimg.com/originals/a5/bc/54/a5bc54cb49fbbc0f0640f92b4690c121.gif" >
 </div>
