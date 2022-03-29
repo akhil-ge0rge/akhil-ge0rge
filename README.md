@@ -1,2 +1,2 @@
 # Hi 👋
-🎯 *I’m currently learning and teaching flutter.*
+🎯 *I’m currently learning flutter.*
