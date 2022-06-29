@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm Akhil George 🎯️🚀️</h1>
- <!--- <h3 align="center">Hey it's me Abhinadan Raj.I have a keen interest in DSA, Java and Web Development and have a huge fascination with the inner workings of technology.</h3> --->
+ <!--- <h3 align="center"></h3> --->
 
 <img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif">
 
