@@ -38,7 +38,7 @@
    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=akhil-ge0rge&show_icons=true&theme=radical&count_private=true">
   </a>
   <a href="https://github.com/akhil-ge0rge/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=akhil-ge0rge&layout=compact&theme=radical&langs_count=6" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=akhil-ge0rge&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
 </details>
