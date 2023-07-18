@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
-- 🌱 I’m currently learning **Flutter,Firebase**
+- 🌱 I'm currently working as a Flutter developer at Chargemod.
 
 - 💬 Ask me about **Flutter**
 
