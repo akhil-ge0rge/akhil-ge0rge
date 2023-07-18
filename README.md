@@ -24,9 +24,10 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 
 <p align="center">
-<a href="https://linkedin.com/in/akhil-ge0rge" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="abhinandanraj" /></a>
-<a href="https://github.com/akhil-ge0rge" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="abhinandanraj" /></a>
+<a href="https://linkedin.com/in/akhil-ge0rge" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="akhil-ge0rge" /></a>
+<a href="https://github.com/akhil-ge0rge" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="akhil-ge0rge" /></a>
 <a href="mailto:akhilgeorge831@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="akhilgeorge831@gmail.com" /></a>
+<a href="https://medium.com/@akhil-ge0rge" target="_blank"><img align="center" src="https://img.shields.io/badge/-Medium-060606?style=flat-square&logo=medium&logoColor=white" alt="akhil-ge0rge" /></a>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
