@@ -28,6 +28,7 @@
 <a href="https://github.com/akhil-ge0rge" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="akhil-ge0rge" /></a>
 <a href="mailto:akhilgeorge831@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="akhilgeorge831@gmail.com" /></a>
 <a href="https://medium.com/@akhil-ge0rge" target="_blank"><img align="center" src="https://img.shields.io/badge/-Medium-060606?style=flat-square&logo=medium&logoColor=white" alt="akhil-ge0rge" /></a>
+<a href="https://stackoverflow.com/users/15908730/akhil-george" target="_blank"><img align="center" src="https://img.shields.io/badge/-stackoverflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white" alt="akhil-ge0rge"/></a>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
