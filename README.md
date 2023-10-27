@@ -38,7 +38,7 @@
   <summary>📊 <b>Github Readme Stats</b></summary>
  <br />
  <p align="center">
-  <a href="https://github.com/akhil-ge0rge/github-readme-stats">
+  <a href="https://github.com/akhil-ge0rge">
     <img align="center" width="430" src="https://github-readme-stats.vercel.app/api?username=akhil-ge0rge&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
@@ -48,7 +48,7 @@
  <summary>🏆 <b>Github Profile Trophy</b></summary>
  <br />
  <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/akhil-ge0rge">
    <img src="https://github-profile-trophy.vercel.app/?username=akhil-ge0rge&column=8&theme=darkhub"/>
   </a>
  </p>
