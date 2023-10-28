@@ -35,6 +35,16 @@
  <img src="https://media.giphy.com/media/c8knYYZ5vzC8V6tpMI/giphy.gif" width="15" height="15"> **Github Stats:**
 
 <details>
+  <summary>📜 <b>Profile Summary</b></summary>
+ <br />
+<a align="center" href="https://github.com/akhil-ge0rge?tab=repositories">
+    <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhil-ge0rge&theme=github_dark" alt="my github stats"/>&nbsp;
+    </p>
+</a>
+</details>
+
+<details>
   <summary>📊 <b>Github Readme Stats</b></summary>
  <br />
  <p align="center">
