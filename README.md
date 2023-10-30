@@ -1,5 +1,7 @@
 
-<h1 align="center">Hello 👋, I'm Akhil George 🎯️🚀️</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Akhil+George!;" />
+</h1>
  <!--- <h3 align="center"></h3> --->
 
 <img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTh0NHBsN296eWUwaHZrODhhdWVscWI1czMwbWM3anlxeHV4cmJqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qAXDUie0dPweocOvnw/giphy.gif">
