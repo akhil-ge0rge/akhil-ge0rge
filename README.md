@@ -32,11 +32,14 @@
 <a href="https://medium.com/@akhil-ge0rge" target="_blank"><img align="center" src="https://img.shields.io/badge/-Medium-060606?style=flat-square&logo=medium&logoColor=white" alt="akhil-ge0rge" /></a>
 <a href="https://stackoverflow.com/users/15908730/akhil-george" target="_blank"><img align="center" src="https://img.shields.io/badge/-stackoverflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white" alt="akhil-ge0rge"/></a>
 
+ 
+ ![snake gif](https://github.com/akhil-ge0rge/akhil-ge0rge/blob/output/github-contribution-grid-snake.svg)
+
+ 
  <img src="https://media.giphy.com/media/c8knYYZ5vzC8V6tpMI/giphy.gif" width="15" height="15"> **Github Stats:**
 
 <details>
   <summary>📜 <b>Profile Summary</b></summary>
- <br />
 <a align="center" href="https://github.com/akhil-ge0rge?tab=repositories">
     <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhil-ge0rge&theme=github_dark" alt="my github stats"/>&nbsp;
