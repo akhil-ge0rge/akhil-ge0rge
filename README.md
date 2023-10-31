@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F70000&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Akhil+George!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=FF007F&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Akhil+George!;" />
 </h1>
  <!--- <h3 align="center"></h3> --->
 
