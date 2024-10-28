@@ -7,7 +7,7 @@
 <img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTh0NHBsN296eWUwaHZrODhhdWVscWI1czMwbWM3anlxeHV4cmJqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qAXDUie0dPweocOvnw/giphy.gif">
 
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20" height="20"> **About Me:**
-- 👨🏻‍💻 I'm currently working as a SDE - Flutter at Chargemod.
+- 👨🏻‍💻 I'm currently working as a SDE - Flutter at chargeMOD.
 
 - 💬 Ask me about **Flutter**
 
