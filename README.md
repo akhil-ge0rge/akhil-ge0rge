@@ -10,9 +10,10 @@
 
 - 💬 Ask me about **Flutter**
 
-<p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-ge0rge&theme=radical"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=akhil-ge0rge&theme=radical&border_radius=20" alt="GitHub Streak" />
+</div>
+
 
  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="20" height="20"> **Languages & Tools:**
 
