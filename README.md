@@ -21,6 +21,7 @@
 <a href="https://dart.dev/overview" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://docs.flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/docs" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://bloclibrary.dev/" target="_blank"><img src="https://bloclibrary.dev/_astro/bloc.DJLDGT9c_A0IIg.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20" height="20"> **Reach out to me:** ️
