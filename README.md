@@ -8,11 +8,7 @@
 
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20" height="20"> **About Me:**
 
-- 💬 Ask me about **Flutter**
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=akhil-ge0rge&theme=radical&border_radius=20" alt="GitHub Streak" />
-</div>
+- 🐦 I am a Software Engineer focused on building mobile apps using Flutter
 
 
  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="20" height="20"> **Languages & Tools:**
@@ -56,16 +52,6 @@
  <p align="center">
   <a href="https://github.com/akhil-ge0rge">
     <img align="center" width="430" src="https://github-readme-stats.vercel.app/api?username=akhil-ge0rge&layout=compact&theme=radical&langs_count=6" />
-  </a>
- </p>
-</details>
-
-<details>
- <summary>🏆 <b>Github Profile Trophy</b></summary>
- <br />
- <p align="center">
-  <a href="https://github.com/akhil-ge0rge">
-   <img src="https://github-profile-trophy.vercel.app/?username=akhil-ge0rge&column=8&theme=darkhub"/>
   </a>
  </p>
 </details>
