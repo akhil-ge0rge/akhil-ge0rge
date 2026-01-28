@@ -8,7 +8,7 @@
 
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20" height="20"> **About Me:**
 
-- 🐦 I am a Software Engineer focused on building mobile apps using Flutter
+- 🐦 I am a Software Developer focused on building mobile apps using Flutter
 
 
  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="20" height="20"> **Languages & Tools:**
