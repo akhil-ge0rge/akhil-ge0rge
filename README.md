@@ -8,10 +8,10 @@
 
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20" height="20"> **About Me:**
 
-- 🐦 I am a Software Developer focused on building mobile apps using Flutter
-- 🙌 Contributed to Flutter Framework [flutter#181658](https://github.com/flutter/flutter/pull/181658)
+- Building mobile apps using Flutter
+- Contributed to Flutter Framework [flutter#181658](https://github.com/flutter/flutter/pull/181658)
 
-
+<!---
  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="20" height="20"> **Languages & Tools:**
 
 <p align="center"> 
@@ -19,6 +19,7 @@
 <a href="https://docs.flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/docs" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="react" width="40" height="40"/> </a>
 </p>
+--->
 
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20" height="20"> **Reach out to me:** ️
 
@@ -46,7 +47,7 @@
     </p>
 </a>
 </details>
-
+<!---
 <details>
   <summary>📊 <b>Github Readme Stats</b></summary>
  <br />
@@ -56,6 +57,8 @@
   </a>
  </p>
 </details>
+
+--->
 
 
 
